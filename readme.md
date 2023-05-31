@@ -3,7 +3,7 @@
 This project focuses on recognizing handwritten characters of the Latin alphabet and numbers using Convolutional Neural Network (CNN) and Fully Connected Network (FCN) trained on the EMNIST dataset.
 
 ## Author
-- [Maksym Kryvenko](https://github.com/Maksym-Kryvenko)
+- [Maksym Kryvenko](https://www.linkedin.com/in/maksymkryvenko/)
 
 ## About
 The goal of this project is to recognize handwritten characters. The EMNIST dataset, consisting of images representing characters as arrays of pixel intensities normalized between 0 and 1, is used for training the FCN/CNN model. The model architecture consists of two convolutional layers, each followed by a max pooling layer. These layers are then connected to two fully connected dense layers with 256 and 128 neurons respectively. Finally, the output layer with 62 nodes represents the classes of characters, with each node outputting a probability value between 0 and 1.
