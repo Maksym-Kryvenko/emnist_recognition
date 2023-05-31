@@ -1,0 +1,10 @@
+internship2023.pdf
+predictions.csv
+workbook.ipynb
+/app/__pycache__/
+/app/assets/
+/app/myenv/
+/app/old_ver/
+/app/variables/
+/app/fingerprint.pb
+/app/keras_metadata.pb
